@@ -1,4 +1,4 @@
 # mariee2024.github.io
-# Maries website
+# Marie's website
 ## 🥝Kiwi fruits
 ## 🍉pasteque
