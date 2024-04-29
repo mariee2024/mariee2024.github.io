@@ -1,5 +1,4 @@
-# Marie's website
-## mariee2024.github.io
+# Marie's website💡
 CHECKLIST
 - [x] Github account
 - [x] New Repository with name account.github.io
