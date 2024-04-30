@@ -5,7 +5,8 @@ CHECKLIST
 - [x] First Name
 - [x] Image
 - [ ] Link to Helloworld repository
-[helloworld link] ( https://mariee2024.github.io/Helloworld/)
+
+[helloworld link](https://mariee2024.github.io/Helloworld/)
 
 ![luxemburg](https://img.freepik.com/premium-vector/outline-map-luxembourg-country-vector-illustration_628809-758.jpg)
 
