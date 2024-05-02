@@ -1,4 +1,4 @@
-# Marie's website💡
+# Marie's Vegan Kitchen website💡
 CHECKLIST
 - [x] Github account
 - [x] New Repository with name account.github.io
