@@ -12,5 +12,7 @@ CHECKLIST
 
 [Recipe 1 link]( https://mariee2024.github.io/Recipe-1/)
 
+[Rubric link](https://mariee2024.github.io/Realindex.html/)
+
 ![luxembourg](https://img.freepik.com/premium-vector/outline-map-luxembourg-country-vector-illustration_628809-758.jpg)
 
