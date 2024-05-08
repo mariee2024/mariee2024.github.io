@@ -9,11 +9,14 @@ CHECKLIST
 - [x] Add color to your Hello World page
 - [x] New webpage for the Rubric
 - [ ] Create 7 other Webpages
-      
-[helloworld (BONJOUR) link](https://mariee2024.github.io/Helloworld/)
-<p>
+
+
+      <p>
 My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert and drinks. Each meal will have two options to choose from.
 </p>
+
+[helloworld (BONJOUR) link](https://mariee2024.github.io/Helloworld/)
+
 [Recipe 1 link]( https://mariee2024.github.io/Recipe-1/)
 
 [Rubric link](https://mariee2024.github.io/Realindex.html/)
