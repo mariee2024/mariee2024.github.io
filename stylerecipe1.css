@@ -1,0 +1,42 @@
+h1{
+color: PaleVioletRed;
+text-align: center;
+font-family: Brush Script MT,cursive;
+font-size: 320%;
+border-radius: 7px;
+background-color: AntiqueWhite;
+}
+button {
+  color: AntiqueWhite;
+  background-color: PaleVioletRed;
+text-align: center;
+  font-size: 22px;
+  border: none;
+  border-radius: 7px;
+   margin: 7px 5px;
+}
+
+ul {
+  color: Black;
+  text-align: center;
+  font-family: Times New Roman, Times, serif;
+  font-size: 160%;
+  width: 470px;
+  margin-right: 150px;
+  border: 3px FloralWhite;
+  border-radius: 9px;
+  padding: 30px;
+  background-color: MistyRose;
+list-style-position: inside;
+}
+
+img {
+border-radius: 8px;
+margin-bottom: 50px;
+margin-left: 80px;
+}
+
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/011/955/827/non_2x/stack-of-pancakes-with-berries-on-plate-pattern-with-hearts-on-pink-background-cute-food-ornament-for-menu-design-vector.jpg");
+}  
+
