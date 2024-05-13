@@ -21,8 +21,8 @@ ul {
   text-align: center;
   font-family: Times New Roman, Times, serif;
   font-size: 160%;
-  width: 470px;
-  margin-right: 150px;
+  width: 480px;
+  margin-right: 170px;
   border: 3px FloralWhite;
   border-radius: 9px;
   padding: 30px;
@@ -34,6 +34,7 @@ img {
 border-radius: 8px;
 margin-bottom: 50px;
 margin-left: 80px;
+margin-right: 50px;
 }
 
 
