@@ -17,10 +17,8 @@ My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert a
 
 
 [helloworld (BONJOUR) link](https://mariee2024.github.io/Helloworld/)
-
-[Recipe 1 link]( https://mariee2024.github.io/Recipe-1/)
-
+[ Pancake recipe]( https://mariee2024.github.io/Recipe-1/)
+[ Porridge recipe](https://mariee2024.github.io/Recipe-porridge-/)
 [Rubric link](https://mariee2024.github.io/Realindex.html/)
 
-![luxembourg](https://img.freepik.com/premium-vector/outline-map-luxembourg-country-vector-illustration_628809-758.jpg)
-
+<a href="default.asp"><img src="https://www.inspiredtaste.net/wp-content/uploads/2020/04/Vegan-Pancakes-Recipe-2-1200-1200x800.jpg" alt="pancake image link" style="width:100px;height:100px;"></a>
