@@ -27,7 +27,5 @@ My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert a
 [Rubric link](https://mariee2024.github.io/Realindex.html/)
 
 <a href=" https://mariee2024.github.io/Pancake-recipe/"><img src="https://www.inspiredtaste.net/wp-content/uploads/2020/04/Vegan-Pancakes-Recipe-2-1200-1200x800.jpg" alt="pancake image link" style="width:150px;height:150px;"></a>
-
 <a href="https://mariee2024.github.io/Recipe-porridge-/"><img src="https://unpeeledjournal.com/wp-content/uploads/2020/04/51193168830_afd1731b55_b.jpg" alt="porridge image link" style="width:150px;height:150px;"></a>
-
 <a href="https://mariee2024.github.io/Recipe-porridge-/"><img src="https://joyfuldumplings.com/wp-content/uploads/2022/05/vegan-chili-con-carne-4-min.jpg" alt="chili con carne image link" style="width:150px;height:150px;"></a>
