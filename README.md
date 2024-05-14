@@ -15,7 +15,7 @@ CHECKLIST:
 
 
 <p>
-My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert and drinks. Each meal will have two options to choose from.
+My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert and drinks. For each meal you will have two options to choose from.
 </p>
 
 [helloworld (BONJOUR) link](https://mariee2024.github.io/Helloworld/)
