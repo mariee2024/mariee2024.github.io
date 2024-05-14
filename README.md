@@ -1,4 +1,5 @@
-![Alt text](https://root.argweb.fr/documents/users/446/editor/pics/cuisine%20vegetale.jpg)
+
+![Alt text](https://www.cnfce.com/course/assets/d7d0df8f-0b73-4466-94c9-c7be35cb5604/img)
 
 # Vegan recipes!
 CHECKLIST:
