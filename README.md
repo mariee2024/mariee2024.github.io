@@ -1,5 +1,7 @@
-# Marie's Vegan Kitchen website💡
-CHECKLIST
+![Alt text](https://root.argweb.fr/documents/users/446/editor/pics/cuisine%20vegetale.jpg)
+
+# Vegan recipes!
+CHECKLIST:
 - [x] Github account
 - [x] New Repository with name account.github.io
 - [x] First Name
@@ -8,7 +10,7 @@ CHECKLIST
 - [x] Add to index.html of Helloworld
 - [x] Add color to your Hello World page
 - [x] New webpage for the Rubric
-- [ ] Create 7 other Webpages
+- [x] Create 7 other Webpages
 
 
 <p>
