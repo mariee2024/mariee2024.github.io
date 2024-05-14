@@ -1,7 +1,7 @@
 
      ![Alt text](https://www.cnfce.com/course/assets/d7d0df8f-0b73-4466-94c9-c7be35cb5604/img)
 
-# Vegan recipes!
+# Vegan recipes! 
 CHECKLIST:
 - [x] Github account
 - [x] New Repository with name account.github.io
@@ -22,7 +22,7 @@ My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert a
 
 [Rubric link](https://mariee2024.github.io/Realindex.html/)
 <p>
-Click the following images to see the different recipes:)
+⬇️Click the following images⬇️ to see the different recipes:)
 </p>
 <a href="https://mariee2024.github.io/Pancake-recipe/"><img src="https://www.inspiredtaste.net/wp-content/uploads/2020/04/Vegan-Pancakes-Recipe-2-1200-1200x800.jpg" alt="pancake image link" style="width:160px;height:165px;"></a>
 <a href="https://mariee2024.github.io/Recipe-porridge-/"><img src="https://cdn.chefclub.tools/uploads/recipes/cover-thumbnail/bb0fe5a7-72f2-4442-bc9f-acc1e97ce771_RFegUn4.jpg" alt="porridge image link" style="width:160px;height:165px;"></a>
