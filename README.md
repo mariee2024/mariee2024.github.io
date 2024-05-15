@@ -19,7 +19,6 @@ My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert a
 </p>
 
 [helloworld (BONJOUR) link](https://mariee2024.github.io/Helloworld/)
-[Iced coffe] (https://mariee2024.github.io/iced-coffee/)
 [Rubric link](https://mariee2024.github.io/Realindex.html/)
 <p>
 ⬇️Click the following images⬇️ to see the different recipes:)
@@ -30,3 +29,4 @@ My Website will be based on Vegan recipes, from Breakfast to Dinner to Dessert a
 <a href="https://mariee2024.github.io/Burger-recipe/"><img src="https://images.immediate.co.uk/production/volatile/sites/30/2022/06/Butternut-squash-burgers-8c8b3c3.jpg?quality=90&webp=true&resize=300,272" alt="Butternut squash burger image link" style="width:160px;height:165px;"></a>
 <a href="https://mariee2024.github.io/Banana-bread-recipe/"><img src="https://www.chelsea.co.nz/hubfs/New%20Recipe%20images/Banana%20Bread.jpg" alt="Banana bread image link" style="width:160px;height:165px;"></a>
 <a href="https://mariee2024.github.io/Lemon-loaf-recipe/"><img src="https://w4s8p5t8.rocketcdn.me/wp-content/uploads/2023/02/vegan-lemon-loaf-starbucks-copycat.jpg" alt="Lemon loaf image link" style="width:160px;height:165px;"></a>
+<a href="https://mariee2024.github.io/iced-coffee/"><img src="https://www.forkinthekitchen.com/wp-content/uploads/2022/08/220629.iced_.latte_.vanilla-9009-500x500.jpg" alt="Iced coffee image link" style="width:160px;height:165px;"></a>
