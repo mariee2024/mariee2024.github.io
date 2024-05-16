@@ -2,6 +2,9 @@
 ![Alt text](https://www.cnfce.com/course/assets/d7d0df8f-0b73-4466-94c9-c7be35cb5604/img)
 
 # Vegan recipes! 
+
+MARIE PINEL CLASS 10
+
 CHECKLIST:
 - [x] Github account
 - [x] New Repository with name account.github.io
