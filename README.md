@@ -16,7 +16,9 @@ CHECKLIST:
 - [x] New webpage for the Rubric
 - [x] Create 8 Webpages
 
-[Rubric link](https://mariee2024.github.io/Realindex.html/)
+-[Helloworld link](https://mariee2024.github.io/Helloworld/)
+
+-[Rubric link](https://mariee2024.github.io/Realindex.html/)
 
 
 <p>
