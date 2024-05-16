@@ -10,7 +10,7 @@ CHECKLIST:
 - [x] New Repository with name account.github.io
 - [x] First Name
 - [x] Images
-- [x] Link to Helloworld repository
+- [x] Link to Helloworld repository 
 - [x] Add to index.html of Helloworld
 - [x] Add color to your Hello World page
 - [x] New webpage for the Rubric
